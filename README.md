@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Lamsal aka @drax2002
-- 👀 I’m interested in Data Networking, Coding , ProjectWorks
-- 🌱 I’m currently learning C++, Networking 
+- 👀 I’m interested in Data Networking, Data Science , ProjectWorks
+- 🌱 I’m currently learning C++, Networking , Python , HTML/CSS 
 - 💞️ I’m looking to collaborate on various projects as my 1st Intern.
 - 📫 How to reach me whatsapp:+91 8657654766 or email: amanlamsal2002@gmail.com
 
