@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Lamsal aka @drax2002
 - 👀 I’m interested in Cybersecurity, Research , Offensive security and Bug Hunting.
-- 🌱 I’m currently learning Networking , Python , HTML/CSS 
+- 🌱 I’m currently learning Javascript and Python with some web development frameworks. *
 - 💞️ I’m looking to collaborate on various projects that fits my interests.
 - 📫 How to reach me whatsapp:+91 8657654766 or email: amanlamsal2002@gmail.com
 
